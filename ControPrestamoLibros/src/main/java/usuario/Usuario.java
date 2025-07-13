@@ -1,6 +1,10 @@
 
 package usuario;
 
+import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class Usuario {
 
      
